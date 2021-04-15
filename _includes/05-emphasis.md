@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Nie macie _pojęcia_ jak **ja**. dobrze. gram. Lubię przy tym *egzaltować*; to działa bardzo terapeutycznie.
