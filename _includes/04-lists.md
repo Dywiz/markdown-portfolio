@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+*Już zdążyłem,
+*polubić
+*HTML
+ *ale mus
+ *to mus!
+*liver
+*vegan chops
+*religions
