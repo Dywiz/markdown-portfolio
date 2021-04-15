@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![bezusty królik w kosmosie](https://i.pinimg.com/originals/8a/3e/af/8a3eaf3c61f020ec5d5bfadcfa55abc0.gif)
