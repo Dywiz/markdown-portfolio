@@ -1,3 +1,3 @@
-#Tomek
-##tu był,
-###c'nie?
+# Tomek
+## tu był,
+### c'nie?
